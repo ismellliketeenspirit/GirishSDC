@@ -36,5 +36,7 @@ npm run react-dev
 npm run server-dev
 ```
 
+API Endpoints
 
+Get /products/grab
 
