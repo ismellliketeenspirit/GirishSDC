@@ -40,9 +40,10 @@ npm run server-dev
 Get all products in the db.
 ```sh
 Get /products/grab
-```sh
+```
+
 Delete a specific product.
 ```sh
 Delete /products/:id
-```sh
+```
 
