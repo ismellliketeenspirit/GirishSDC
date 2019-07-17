@@ -47,3 +47,9 @@ Delete a specific product.
 Delete /products/:id
 ```
 
+Post : Creates a new product
+```sh
+Post /data/insert
+```
+
+
