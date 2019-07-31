@@ -36,5 +36,20 @@ npm run react-dev
 npm run server-dev
 ```
 
+### API Endpoints
+Get all products in the db.
+```sh
+Get /products/grab
+```
+
+Delete a specific product.
+```sh
+Delete /products/:id
+```
+
+Post : Creates a new product
+```sh
+Post /data/insert
+```
 
 
