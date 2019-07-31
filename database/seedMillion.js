@@ -12,7 +12,7 @@ const seed = async () => {
       let linkId = Math.floor(Math.random() * 1000);
 
       while (linkArr.indexOf(linkId) !== -1){
-        linkId = Math.floor(Math.random() * 480);
+        linkId = Math.floor(Math.random() * 1000);
       }
       linkArr.push(linkId);
       tuple.push([i, linkId]);
